@@ -15,7 +15,7 @@
               "state": {
                 "file": "workspace/openAI/prompt/한글 합성/한글 합성 Prompt.md",
                 "mode": "source",
-                "backlinks": true,
+                "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
@@ -89,34 +89,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e29160efa0a444b6",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks"
-            }
-          },
-          {
             "id": "e2cad65d42cc81b9",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "workspace/openAI/prompt/한글 합성/한글 합성 Prompt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "한글 합성 Prompt의 나가는 링크"
             }
           },
           {
@@ -137,9 +120,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "workspace/openAI/prompt/한글 합성/한글 합성 Prompt.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "한글 합성 Prompt 개요"
             }
           },
           {
@@ -151,13 +136,24 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "0f2185680a8604c7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,19 +162,22 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "command-palette:명령어 팔레트 열기": false
     }
   },
   "active": "718398c376ddab19",
   "lastOpenFiles": [
+    "workspace/openAI/용량에 따른 토큰 수, 비용 측정.md",
     "workspace/openAI/test result/11.13 한글 합성 res_data_encyKorea_v2_with_title_500.jsonl.md",
     "workspace/openAI/prompt/한글 합성/한글 합성 Prompt.md",
+    "workspace/openAI/result/영어 번역.md",
+    "workspace/openAI/prompt/한글 합성/무제 파일.canvas",
     "personal",
     "무제 파일.canvas",
     "2024-11-14.md",
-    "workspace/openAI/result/영어 번역.md",
-    "workspace/openAI/용량에 따른 토큰 수, 비용 측정.md",
     "workspace/openAI/result",
     "workspace/openAI/test result",
     "workspace/openAI/prompt/한글 합성",
